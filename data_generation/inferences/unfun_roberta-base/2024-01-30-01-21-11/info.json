@@ -1,0 +1,10 @@
+{
+    "model_name": "roberta-base",
+    "seed": 1234,
+    "input_data": [
+        "../classification/data/unfun/unpaired/human_unique_training.tsv"
+    ],
+    "out_folder": "inferences/unfun_roberta-base",
+    "task_type": "make-unfunny",
+    "num_swaps": 3
+}

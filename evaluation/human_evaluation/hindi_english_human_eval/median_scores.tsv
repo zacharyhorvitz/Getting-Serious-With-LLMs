@@ -1,0 +1,4 @@
+Model	Training Data	Accuracy	Accuracy std err	Accuracy	Accuracy std err
+classifier	unfun//burg/nlp/users/zfh2000/FRESH_TUNE_SELECTED_LR/l3cube-punehing-roberta/l3cube-pune/hing-roberta_1.5625e-06_8_.._hindi_unfuns_filter_train_unfuns_just_unfun_reformatted_0.25.tsv	0.6896551724137931	0.0027415392827583648	0.3917525773195876	0.04728802037599882
+classifier	unfun//burg/nlp/users/zfh2000/FRESH_TUNE_SELECTED_LR/l3cube-punehing-roberta/l3cube-pune/hing-roberta_1.5625e-06_8_.._hindi_unfuns_filter_train_unfuns_just_unfun_reformatted_0.5.tsv	0.6628352490421456	0.004705005803221063	0.6597938144329897	0.09527468943543614
+classifier	unfun//burg/nlp/users/zfh2000/FRESH_TUNE_SELECTED_LR/l3cube-punehing-roberta/l3cube-pune/hing-roberta_1.5625e-06_8_data_hindi-english_train_filtered.tsv	0.6954022988505747	0.004616818492380711	0.18556701030927836	0.01355189833002473

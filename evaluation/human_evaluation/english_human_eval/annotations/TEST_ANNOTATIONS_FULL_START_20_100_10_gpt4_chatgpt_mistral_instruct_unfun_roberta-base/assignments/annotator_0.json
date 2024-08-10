@@ -1,0 +1,2402 @@
+{
+  "0": [
+    "unfun",
+    [
+      20,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "1": [
+    "unfun",
+    [
+      35,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "2": [
+    "satire",
+    [
+      90,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      0
+    ]
+  ],
+  "3": [
+    "real",
+    [
+      "real_47",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "4": [
+    "satire",
+    [
+      49,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      0
+    ]
+  ],
+  "5": [
+    "unfun",
+    [
+      28,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "6": [
+    "unfun",
+    [
+      82,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "7": [
+    "satire",
+    [
+      86,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "8": [
+    "satire",
+    [
+      13,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "9": [
+    "unfun",
+    [
+      91,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "10": [
+    "unfun",
+    [
+      23,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "11": [
+    "unfun",
+    [
+      36,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "12": [
+    "unfun",
+    [
+      13,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "13": [
+    "unfun",
+    [
+      88,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "14": [
+    "unfun",
+    [
+      11,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "15": [
+    "satire",
+    [
+      26,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      0
+    ]
+  ],
+  "16": [
+    "unfun",
+    [
+      26,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "17": [
+    "unfun",
+    [
+      51,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "18": [
+    "satire",
+    [
+      82,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "19": [
+    "unfun",
+    [
+      31,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "20": [
+    "unfun",
+    [
+      24,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "21": [
+    "unfun",
+    [
+      43,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "22": [
+    "unfun",
+    [
+      32,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "23": [
+    "satire",
+    [
+      69,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "24": [
+    "unfun",
+    [
+      56,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "25": [
+    "real",
+    [
+      "real_38",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "26": [
+    "unfun",
+    [
+      18,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "27": [
+    "unfun",
+    [
+      2,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "28": [
+    "real",
+    [
+      "real_4",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "29": [
+    "satire",
+    [
+      1,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "30": [
+    "unfun",
+    [
+      30,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "31": [
+    "unfun",
+    [
+      57,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "32": [
+    "unfun",
+    [
+      90,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "33": [
+    "unfun",
+    [
+      69,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "34": [
+    "unfun",
+    [
+      0,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "35": [
+    "satire",
+    [
+      47,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "36": [
+    "unfun",
+    [
+      86,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "37": [
+    "satire",
+    [
+      38,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "38": [
+    "satire",
+    [
+      52,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "39": [
+    "unfun",
+    [
+      31,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      1
+    ]
+  ],
+  "40": [
+    "unfun",
+    [
+      78,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      2
+    ]
+  ],
+  "41": [
+    "satire",
+    [
+      25,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "42": [
+    "satire",
+    [
+      37,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "43": [
+    "unfun",
+    [
+      4,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      2
+    ]
+  ],
+  "44": [
+    "satire",
+    [
+      90,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "45": [
+    "satire",
+    [
+      13,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "46": [
+    "satire",
+    [
+      52,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "47": [
+    "satire",
+    [
+      51,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "48": [
+    "satire",
+    [
+      7,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "49": [
+    "satire",
+    [
+      43,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      0
+    ]
+  ],
+  "50": [
+    "satire",
+    [
+      31,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "51": [
+    "satire",
+    [
+      57,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "52": [
+    "satire",
+    [
+      10,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "53": [
+    "satire",
+    [
+      0,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "54": [
+    "satire",
+    [
+      98,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "55": [
+    "unfun",
+    [
+      40,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "56": [
+    "unfun",
+    [
+      22,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      1
+    ]
+  ],
+  "57": [
+    "satire",
+    [
+      40,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "58": [
+    "satire",
+    [
+      62,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "59": [
+    "unfun",
+    [
+      22,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "60": [
+    "satire",
+    [
+      76,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "61": [
+    "unfun",
+    [
+      41,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      2
+    ]
+  ],
+  "62": [
+    "unfun",
+    [
+      39,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "63": [
+    "unfun",
+    [
+      61,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "64": [
+    "unfun",
+    [
+      80,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "65": [
+    "unfun",
+    [
+      2,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "66": [
+    "real",
+    [
+      "real_71",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "67": [
+    "satire",
+    [
+      42,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "68": [
+    "unfun",
+    [
+      72,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "69": [
+    "satire",
+    [
+      36,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "70": [
+    "unfun",
+    [
+      85,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "71": [
+    "satire",
+    [
+      22,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "72": [
+    "unfun",
+    [
+      67,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "73": [
+    "real",
+    [
+      "real_80",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "74": [
+    "satire",
+    [
+      14,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "75": [
+    "satire",
+    [
+      59,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "76": [
+    "unfun",
+    [
+      66,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "77": [
+    "unfun",
+    [
+      15,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "78": [
+    "real",
+    [
+      "real_94",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "79": [
+    "unfun",
+    [
+      1,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "80": [
+    "unfun",
+    [
+      42,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "81": [
+    "unfun",
+    [
+      18,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      1
+    ]
+  ],
+  "82": [
+    "unfun",
+    [
+      70,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "83": [
+    "satire",
+    [
+      28,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "84": [
+    "satire",
+    [
+      63,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "85": [
+    "unfun",
+    [
+      25,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "86": [
+    "satire",
+    [
+      24,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "87": [
+    "unfun",
+    [
+      17,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "88": [
+    "satire",
+    [
+      68,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "89": [
+    "unfun",
+    [
+      33,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      2
+    ]
+  ],
+  "90": [
+    "satire",
+    [
+      24,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "91": [
+    "unfun",
+    [
+      6,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "92": [
+    "unfun",
+    [
+      84,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "93": [
+    "unfun",
+    [
+      45,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      2
+    ]
+  ],
+  "94": [
+    "unfun",
+    [
+      21,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "95": [
+    "satire",
+    [
+      50,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "96": [
+    "unfun",
+    [
+      11,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "97": [
+    "unfun",
+    [
+      65,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "98": [
+    "unfun",
+    [
+      15,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "99": [
+    "real",
+    [
+      "real_75",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "100": [
+    "satire",
+    [
+      8,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "101": [
+    "unfun",
+    [
+      7,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "102": [
+    "satire",
+    [
+      5,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "103": [
+    "unfun",
+    [
+      74,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "104": [
+    "satire",
+    [
+      92,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "105": [
+    "satire",
+    [
+      79,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "106": [
+    "unfun",
+    [
+      99,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "107": [
+    "unfun",
+    [
+      0,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "108": [
+    "satire",
+    [
+      75,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "109": [
+    "unfun",
+    [
+      29,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "110": [
+    "satire",
+    [
+      72,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "111": [
+    "real",
+    [
+      "real_17",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "112": [
+    "satire",
+    [
+      19,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "113": [
+    "unfun",
+    [
+      14,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "114": [
+    "satire",
+    [
+      21,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "115": [
+    "unfun",
+    [
+      7,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "116": [
+    "real",
+    [
+      "real_11",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "117": [
+    "unfun",
+    [
+      86,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "118": [
+    "unfun",
+    [
+      73,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "119": [
+    "unfun",
+    [
+      1,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "120": [
+    "satire",
+    [
+      83,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "121": [
+    "satire",
+    [
+      84,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "122": [
+    "unfun",
+    [
+      74,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "123": [
+    "satire",
+    [
+      64,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "124": [
+    "unfun",
+    [
+      94,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "125": [
+    "satire",
+    [
+      20,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "126": [
+    "unfun",
+    [
+      77,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      2
+    ]
+  ],
+  "127": [
+    "unfun",
+    [
+      46,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "128": [
+    "satire",
+    [
+      2,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "129": [
+    "real",
+    [
+      "real_18",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "130": [
+    "unfun",
+    [
+      27,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "131": [
+    "unfun",
+    [
+      5,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "132": [
+    "satire",
+    [
+      6,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "133": [
+    "unfun",
+    [
+      17,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "134": [
+    "unfun",
+    [
+      57,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      1
+    ]
+  ],
+  "135": [
+    "satire",
+    [
+      71,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "136": [
+    "unfun",
+    [
+      19,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "137": [
+    "satire",
+    [
+      79,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "138": [
+    "unfun",
+    [
+      10,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "139": [
+    "satire",
+    [
+      69,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "140": [
+    "satire",
+    [
+      29,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "141": [
+    "unfun",
+    [
+      48,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      1
+    ]
+  ],
+  "142": [
+    "unfun",
+    [
+      47,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "143": [
+    "unfun",
+    [
+      83,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "144": [
+    "unfun",
+    [
+      72,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "145": [
+    "unfun",
+    [
+      16,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "146": [
+    "satire",
+    [
+      45,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "147": [
+    "unfun",
+    [
+      27,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "148": [
+    "satire",
+    [
+      35,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "149": [
+    "unfun",
+    [
+      97,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "150": [
+    "satire",
+    [
+      27,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "151": [
+    "satire",
+    [
+      78,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "152": [
+    "unfun",
+    [
+      3,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "153": [
+    "unfun",
+    [
+      6,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "154": [
+    "unfun",
+    [
+      84,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "155": [
+    "satire",
+    [
+      38,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "156": [
+    "satire",
+    [
+      74,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "157": [
+    "unfun",
+    [
+      50,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "158": [
+    "real",
+    [
+      "real_34",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "159": [
+    "unfun",
+    [
+      59,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "160": [
+    "unfun",
+    [
+      55,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "161": [
+    "unfun",
+    [
+      36,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "162": [
+    "real",
+    [
+      "real_49",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "163": [
+    "satire",
+    [
+      95,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "164": [
+    "satire",
+    [
+      18,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "165": [
+    "satire",
+    [
+      56,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "166": [
+    "unfun",
+    [
+      58,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "167": [
+    "unfun",
+    [
+      14,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "168": [
+    "satire",
+    [
+      41,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      0
+    ]
+  ],
+  "169": [
+    "satire",
+    [
+      93,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "170": [
+    "unfun",
+    [
+      76,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "171": [
+    "satire",
+    [
+      96,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "172": [
+    "satire",
+    [
+      89,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "173": [
+    "real",
+    [
+      "real_84",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "174": [
+    "satire",
+    [
+      3,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "175": [
+    "unfun",
+    [
+      8,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "176": [
+    "unfun",
+    [
+      85,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "177": [
+    "satire",
+    [
+      82,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "178": [
+    "unfun",
+    [
+      83,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "179": [
+    "real",
+    [
+      "real_96",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "180": [
+    "real",
+    [
+      "real_58",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "181": [
+    "unfun",
+    [
+      16,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "182": [
+    "unfun",
+    [
+      53,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "183": [
+    "unfun",
+    [
+      79,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "184": [
+    "unfun",
+    [
+      54,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "185": [
+    "satire",
+    [
+      5,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "186": [
+    "real",
+    [
+      "real_78",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "187": [
+    "satire",
+    [
+      88,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "188": [
+    "satire",
+    [
+      99,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "189": [
+    "real",
+    [
+      "real_9",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "190": [
+    "satire",
+    [
+      4,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "191": [
+    "unfun",
+    [
+      53,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "192": [
+    "unfun",
+    [
+      97,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "193": [
+    "unfun",
+    [
+      99,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "194": [
+    "unfun",
+    [
+      96,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "195": [
+    "satire",
+    [
+      62,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "196": [
+    "unfun",
+    [
+      61,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      1
+    ]
+  ],
+  "197": [
+    "unfun",
+    [
+      98,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "198": [
+    "unfun",
+    [
+      48,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "199": [
+    "unfun",
+    [
+      71,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "200": [
+    "satire",
+    [
+      70,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "201": [
+    "satire",
+    [
+      54,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "202": [
+    "real",
+    [
+      "real_82",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "203": [
+    "satire",
+    [
+      30,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "204": [
+    "unfun",
+    [
+      68,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "205": [
+    "unfun",
+    [
+      12,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "206": [
+    "satire",
+    [
+      16,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "207": [
+    "real",
+    [
+      "real_45",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "208": [
+    "satire",
+    [
+      99,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "209": [
+    "unfun",
+    [
+      92,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "210": [
+    "unfun",
+    [
+      75,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "211": [
+    "satire",
+    [
+      94,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "212": [
+    "satire",
+    [
+      46,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "213": [
+    "unfun",
+    [
+      91,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "214": [
+    "satire",
+    [
+      66,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "215": [
+    "real",
+    [
+      "real_86",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "216": [
+    "satire",
+    [
+      60,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "217": [
+    "unfun",
+    [
+      82,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "218": [
+    "real",
+    [
+      "real_87",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "219": [
+    "satire",
+    [
+      77,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "220": [
+    "unfun",
+    [
+      52,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "221": [
+    "satire",
+    [
+      51,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      0
+    ]
+  ],
+  "222": [
+    "unfun",
+    [
+      64,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "223": [
+    "satire",
+    [
+      81,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "224": [
+    "unfun",
+    [
+      94,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "225": [
+    "satire",
+    [
+      97,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "226": [
+    "satire",
+    [
+      91,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "227": [
+    "real",
+    [
+      "real_26",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "228": [
+    "satire",
+    [
+      61,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "229": [
+    "unfun",
+    [
+      55,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "230": [
+    "real",
+    [
+      "real_76",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "231": [
+    "real",
+    [
+      "real_6",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "232": [
+    "unfun",
+    [
+      25,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      1
+    ]
+  ],
+  "233": [
+    "satire",
+    [
+      58,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "234": [
+    "unfun",
+    [
+      58,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      1
+    ]
+  ],
+  "235": [
+    "unfun",
+    [
+      93,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "236": [
+    "satire",
+    [
+      55,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "237": [
+    "unfun",
+    [
+      63,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      2
+    ]
+  ],
+  "238": [
+    "real",
+    [
+      "real_44",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "239": [
+    "satire",
+    [
+      80,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "240": [
+    "satire",
+    [
+      33,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "241": [
+    "unfun",
+    [
+      87,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      1
+    ]
+  ],
+  "242": [
+    "satire",
+    [
+      53,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "243": [
+    "satire",
+    [
+      87,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "244": [
+    "satire",
+    [
+      10,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      0
+    ]
+  ],
+  "245": [
+    "unfun",
+    [
+      37,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "246": [
+    "real",
+    [
+      "real_14",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "247": [
+    "unfun",
+    [
+      65,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "248": [
+    "satire",
+    [
+      94,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "249": [
+    "unfun",
+    [
+      98,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      0
+    ]
+  ],
+  "250": [
+    "unfun",
+    [
+      49,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "251": [
+    "satire",
+    [
+      59,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "252": [
+    "real",
+    [
+      "real_13",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "253": [
+    "unfun",
+    [
+      80,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "254": [
+    "satire",
+    [
+      11,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "255": [
+    "satire",
+    [
+      17,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "256": [
+    "satire",
+    [
+      67,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      0
+    ]
+  ],
+  "257": [
+    "satire",
+    [
+      15,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "258": [
+    "unfun",
+    [
+      24,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "259": [
+    "unfun",
+    [
+      9,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "260": [
+    "satire",
+    [
+      48,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "261": [
+    "unfun",
+    [
+      79,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "262": [
+    "unfun",
+    [
+      60,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "263": [
+    "unfun",
+    [
+      39,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "264": [
+    "unfun",
+    [
+      30,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "265": [
+    "satire",
+    [
+      12,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "266": [
+    "unfun",
+    [
+      8,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "267": [
+    "satire",
+    [
+      23,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "268": [
+    "satire",
+    [
+      39,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "269": [
+    "unfun",
+    [
+      32,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "270": [
+    "satire",
+    [
+      40,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      1
+    ]
+  ],
+  "271": [
+    "unfun",
+    [
+      95,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "272": [
+    "real",
+    [
+      "real_68",
+      "sample_200/real_heads.tsv",
+      2
+    ]
+  ],
+  "273": [
+    "satire",
+    [
+      34,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      2
+    ]
+  ],
+  "274": [
+    "unfun",
+    [
+      90,
+      "inferences_200/unfun_chatgpt/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "275": [
+    "satire",
+    [
+      9,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "276": [
+    "satire",
+    [
+      73,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "277": [
+    "unfun",
+    [
+      76,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "278": [
+    "unfun",
+    [
+      42,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "279": [
+    "satire",
+    [
+      44,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      2
+    ]
+  ],
+  "280": [
+    "satire",
+    [
+      35,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      0
+    ]
+  ],
+  "281": [
+    "real",
+    [
+      "real_31",
+      "sample_200/real_heads.tsv",
+      1
+    ]
+  ],
+  "282": [
+    "unfun",
+    [
+      54,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "283": [
+    "unfun",
+    [
+      87,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "284": [
+    "unfun",
+    [
+      34,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "285": [
+    "real",
+    [
+      "real_39",
+      "sample_200/real_heads.tsv",
+      0
+    ]
+  ],
+  "286": [
+    "unfun",
+    [
+      59,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      0
+    ]
+  ],
+  "287": [
+    "satire",
+    [
+      85,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "288": [
+    "unfun",
+    [
+      38,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "289": [
+    "unfun",
+    [
+      44,
+      "inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv",
+      2
+    ]
+  ],
+  "290": [
+    "unfun",
+    [
+      73,
+      "[GOLD]",
+      0
+    ]
+  ],
+  "291": [
+    "unfun",
+    [
+      64,
+      "inferences_200/unfun_roberta-base/2024-02-01-21-03-48/model_outputs.tsv",
+      0
+    ]
+  ],
+  "292": [
+    "satire",
+    [
+      32,
+      "inferences_200/satire_chatgpt/2024-01-30-19-15-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "293": [
+    "satire",
+    [
+      20,
+      "inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv",
+      1
+    ]
+  ],
+  "294": [
+    "unfun",
+    [
+      62,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "295": [
+    "satire",
+    [
+      76,
+      "inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv",
+      1
+    ]
+  ],
+  "296": [
+    "satire",
+    [
+      2,
+      "[GOLD]",
+      1
+    ]
+  ],
+  "297": [
+    "unfun",
+    [
+      89,
+      "[GOLD]",
+      2
+    ]
+  ],
+  "298": [
+    "unfun",
+    [
+      81,
+      "inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv",
+      2
+    ]
+  ],
+  "299": [
+    "satire",
+    [
+      65,
+      "[GOLD]",
+      0
+    ]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "model_name": "roberta-base",
+    "seed": 1234,
+    "input_data": [
+        "../human_eval/sample_200/unpaired/pairs_for_unfun_gen.tsv"
+    ],
+    "out_folder": "../human_eval/inferences_200//unfun_roberta-base",
+    "task_type": "make-unfunny",
+    "num_swaps": 3
+}

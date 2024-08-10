@@ -1,0 +1,47 @@
+[
+    {
+        "humor": "Agar Dubai ke mall mein jaakar, sports car ke showroom mein gaadi ke saath photo nahi khcichayi toh Indian nahi ho tum.",
+        "non_humor": "Agar Dubai ke mall mein jaakar, sports car ke showroom mein gaadi ke saath photo nahi khichayi toh aapne ek aam activity miss kar di.",
+        "edit_distance": "8"
+    },
+    {
+        "humor": "Chetan Bhagat is a male Shobha De",
+        "non_humor": "Chetan Bhagat ek pramukh lekhak hain, jaise Shobha De hain.",
+        "edit_distance": "6"
+    },
+    {
+        "humor": "India ke bowlers ne World cup se pahle koi pooja karwai thi kya?",
+        "non_humor": "Kya India ke bowlers ne World cup se pahle koi special preparation ki thi?",
+        "edit_distance": "5"
+    },
+    {
+        "humor": "Bajrangi bhaijan ko taaron ke neeche se Pakistan nahi jana padta agar unhone Barkha Dutt ko approach kiya hota.",
+        "non_humor": "Bajrangi bhaijan ko taaron ke neeche se Pakistan nahi jana padta agar unhone kisi patrakar ko approach kiya hota.",
+        "edit_distance": "2"
+    },
+    {
+        "humor": "O naadan parindey ghar aaja' - This song was written for Modi Sir",
+        "non_humor": "O naadan parindey ghar aaja' - Yeh gaana kisi vyakti ke liye likha gaya tha.",
+        "edit_distance": "9"
+    },
+    {
+        "humor": "Hahaa.. Rohit Talented Chutiya Shrama.. #IPL",
+        "non_humor": "Rohit Shrama, aap bahut pratibhashali hain. #IPL",
+        "edit_distance": "6"
+    },
+    {
+        "humor": "BC Rahul 56 din se yehi speech ka ratta maar raha tha",
+        "non_humor": "Rahul 56 din se yahi bhashan ka abhyas kar raha tha",
+        "edit_distance": "5"
+    },
+    {
+        "humor": "Bhaiya 5 rupye ka sense dena.",
+        "non_humor": "Bhaiya, 5 rupye ka saman dena.",
+        "edit_distance": "1"
+    },
+    {
+        "humor": "Behen ki lodi ne dhoka de diya",
+        "non_humor": "Meri dost ne mujhe dhokha de diya.",
+        "edit_distance": "5"
+    }
+]

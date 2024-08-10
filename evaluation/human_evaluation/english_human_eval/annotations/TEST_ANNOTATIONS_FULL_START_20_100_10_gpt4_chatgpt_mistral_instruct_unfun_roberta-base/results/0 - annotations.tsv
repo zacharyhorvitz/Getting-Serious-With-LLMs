@@ -1,0 +1,301 @@
+id	headline	real/satirical/neither {r/s/n}	funniness {0,1,2}	grammatical {0,1}	coherent {0,1}
+0	wall street executive realizes everyone just going to let him die on sidewalk	s	2		
+1	new vcr released, grandpa alleges it's made by communists	s	2		
+2	boxer who killed in ring world champion of 'tweet'	n		0	0
+3	earhart died on pacific island	r			
+4	report: male hair growth 7 times more likely than female	n		1	0
+5	bulls assure fans derrick rose will be part of team's payroll for years to come	r			
+6	scientific journal releases list of year's top 100 discoveries	r			
+7	u.s. authorities can't really fault al-qaeda for deadly bombing of carnival cruise ship	s	1		
+8	vikings stand behind brett favre's decision to swap team for fantasy football league in upcoming months	s	2		
+9	soccer player in blue shirt scores goal	s	0		
+10	scientists theorize stars could support noncarbon-based life	r			
+11	unique roadside memorial features bicycle, rotary telephone, and decorative jug	r			
+12	mitt romney drops in polls after leaving country	r			
+13	jefferson memorial reopens on national day	r			
+14	endangered species list edited to add context	r			
+15	local man shot with potato gun	r			
+16	hot new 'dance craze' sweeps chicago	r			
+17	report: election may come down to single decisive state	r			
+18	now age doesn't matter unless you're a senior citizen, in which case you're definitely too old.	s	1		
+19	man who just received complimentary daffy duck checks pleased with bank of america	s	0		
+20	evidence piling up student slept with one of her college professors	r			
+21	bottled back into shampoo	n		1	0
+22	best falafel in western montana awarded to local restaurant	r			
+23	nonindigenous larry crosses state lines	n		1	0
+24	tom petty to perform new material at super bowl	r			
+25	twins beat white sox in game marred by fan unrest	n		1	0
+26	claim: "god's plan" for area man involves kidnapping ceo of ford	n		1	0
+27	middle-aged female finds unlikely kindred spirit in aubrey hepburn	r			
+28	palin's hacked email account -- what's next?	r			
+29	former bully discusses experience of having kids with "cool kid" syndrome	r			
+30	lol who cares?	s	0		
+31	jaguars offensive line not sure they can clear big enough opening for maurice jones drew	s	1		
+32	tim duncan announces shoe deal with florisheim	r			
+33	vatican condems fake mcs	s	1		
+34	new dating website helps plus-size individuals find meaningful connections	r			
+35	study reveals majority of suicides occur while trying to put fitted sheet on bed	s	2		
+36	16 year olds summer plan for shooting next school year	s	2		
+37	everyone at office planning shooting spree for same day	s	0		
+38	landon donovan inks $200,000-per-goose chase deal with local soccer moms team	s	1		
+39	man who just received a daffy duck sandwich can't stay mad at rest of america	n		1	0
+40	michelle obama playing outside with a rhinoceros	n		1	0
+41	company to get head start on christmas layoffs this year	n		1	0
+42	kobe bryant scores 25 in holy shit we elected a black president	n		1	0
+43	red paul elected ruler of planet earth by 1 billion tiny russian pauls	n		1	0
+44	boxer who spilled milk in ring, world champion of lactose warfare	n		1	0
+45	vikings stand behind brett favre's decision to change team's diapers for upcoming months	s	1		
+46	landon donovan inks $2-per-goal deal with grandparents	n		1	0
+47	indians apologize for not having ace pitcher to trade to contender this year	s	1		
+48	student's job interview turns into a surprise travel vlog due to 4-hour train delay	s	0		
+49	eagles having short season, apparently they didn't even make it to playoffs	n		0	1
+50	masochistic athlete enjoys being pummeled by opponents	s	1		
+51	leading professor says cure for cancer 'around the corner,' along with flying pigs and world peace	s	2		
+52	google responds to privacy concerns with ironic "sorry, not sorry" apology	s	2		
+53	historical archives: local blacksmith disheartened as son trades anvil for tap shoes	s	1		
+54	dead singer remembered as global dickhead	s	2		
+55	obama has a calm and productive day without interruptions	n		1	1
+56	format: best of knockout stages	n		0	0
+57	greg oden: center, portland trail blazers	r			
+58	scandalous photos reveal grover norquist's secret years-long affair with himself	s	2		
+59	report: game of knockout leaves participants thrilled	n		1	0
+60	lebron james realizes he's the only person in arena who knows what's up	s	1		
+61	chicago public schools celebrate third straight day without any student suspensions	s	2		
+62	love and forgiveness of christ now available in new spray form	s	2		
+63	ford looks down on website that would let itself be plastered in ford's ads	n		1	1
+64	referee reports two fouls on the play during the match	n		1	0
+65	college-aged female finds inspiration in audrey hepburn	n		1	0
+66	even through the haze, it's easy to see why this wall is great	n		1	0
+67	patriots manager draws conclusion from nfl preseason game that all players are equally talented	s	2		
+68	mississippi brings down yet another state average	r			
+69	report: game of knockout ending in surprise healthcare bill	n		1	0
+70	this is pretty sure it's not.	n		0	0
+71	centerfielder gives in to gravity, performs unscheduled ground inspection	s	1		
+72	group of friends engage in passionate, coherent discussion about current events	n		1	0
+73	are stun guns too deadly? louisiana case adds to debate.	r			
+74	obama, congress must strike a deal on budget by march 1 or face detention	r			
+75	report: peanut butter contains traces of rat 'nut'rition	r			
+76	statue of liberty corporation to focus on new york flagship statue	n		1	0
+77	peyton on beginning of manning era in denver: 'i am excited for the new challenge'	r			
+78	lithuania still planning to adopt euro in 2014	r			
+79	recovering sick, sick, pounds and pounds of hospital food	n		0	0
+80	giant protest puppet causes havoc among peace drummers	r			
+81	state's plan for area manhunt for ceo of ford	n		1	0
+82	tributes to julia child highlight her unique voice	r			
+83	mom who is getting the hang of using itunes just deleted entire music library	s	2		
+84	white house jester beheaded for making fun of soaring national debt	s	1		
+85	stock market unsure how to react to commodity shortage	r			
+86	ex-girlfriend really into sex now	s	2		
+87	widespread cable tv theft reported across u.s.	r			
+88	national science foundation reveals groundbreaking study: "the surprising science behind why cats love boxes"	r			
+89	delta vitale undergoes a histological examination	n		1	0
+90	super-girlfriend magically performs reverse invisibility spell on self	n		1	0
+91	police puzzled by unusual bag shape	n		1	0
+92	every player on buffalo bills roster celebrates opening week win	r			
+93	study: 83% of gamblers quit gambling before they would have hit the big time	s	2		
+94	adolescent girl reaching age where she starts questioning stepfather's authority	s	0		
+95	crocodile chokes to death on shillings because it was too stupid to swallow its own tail	n		1	0
+96	endangered species poster is updated with more species	r			
+97	two naked women feared dead in car crash	r			
+98	peyton on beginning of manning era in denver: 'i will give my all'	r			
+99	football : live text - world cup play-offs	n		0	0
+100	sports fans call for broncos to add jake plummer to game and see if he can still rock that glorious mustache	s	1		
+101	team returns to stadium to retrieve all they left on field	s	1		
+102	man gets life in prison for 36 failed pickup lines	s	2		
+103	eagles say michael vick should be ready for thursday night playoff	r			
+104	mangini urges browns players not to say who they're going to kill over twitter	s	1		
+105	nhl holds fan attendance night	s	0		
+106	scientists discover error in fermilab calculations	r			
+107	new dating website helps plus-size jewish singles find love	r			
+108	142 plane crash victims were statistically more likely to have died in a car crash	s	2		
+109	owner of independent comic book store in ohio surprised by business sustainability	s	2		
+110	dead iraqi loved democracy, says psychic medium	s	0		
+111	bush struggles with legacy on mideast peace	n		1	0
+112	scientists discover new species of cute animals that will soon become internet celebrities	s	1		
+113	standoff in ivory coast threatens to escalate into full-scale conflict	r			
+114	litter-obsessed area man spends absurd amount of free time trying to pick up trash, not girls	n		1	0
+115	team returns to stadium in dead of night to retrieve ball they left on field	n		1	0
+116	woman takes unique road to sue honda over mileage	r			
+117	16-year-old excited to have whole summer to plan activities for next school year	s	1		
+118	penn state to remove controversial statue as part of campus renovations	r			
+119	recovering prince fielder sick of pounds and pounds of hospital food	n		1	0
+120	8% of india now trapped in handmade jewelry making pyramid scheme	r			
+121	it's a privilege to have worked with such talented golfers,' says obama	s	0		
+122	eagles say michael vick should be ready for thursday night game	r			
+123	george w. collins returns to america after spending 4 years in mail	n		1	0
+124	redskins acquire replacement tight end	r			
+125	bill simmons still bitter about 2010 nba season	r			
+126	egypt plunges into abyss of dark ages	r			
+127	obama to make reassurances with every last american	n		1	0
+128	brendan fraser to star in new pre-movie trivia show, titled "the mummy knows best"	n		1	0
+129	packers season ends with win over lions	r			
+130	injured man not certain what any of his coworkers' names are	n		1	0
+131	emoji typo commits woman to first date	s	2		
+132	rob lowe at gym, spotted with gym	n		1	0
+133	neighbor stealing cable tv from greg	n		1	0
+134	jaguars offensive line not sure they can dig big enough hole for maurice jakes	n		1	0
+135	new baby monitor allows parents to listen in on child's vital signs...and snore	r			
+136	area man confused about receiving emails from hamas	n		1	0
+137	nhl holds fan appreciation night, both fans show up	s	0		
+138	jeff suppan approaches omaha residents with offer to do small handyman jobs around the house	n		1	0
+139	nonindigenous beetle goes on interstate road trip	n		1	0
+140	city opens new art jail	n		1	0
+141	3. jason lugar placed on the disabled list with strained hamstring	r			
+142	dental hygienist's teeth tell a very different story	s	1		
+143	ira glass tries to explain 'this american life' at high school reunion	r			
+144	mississippi sees improvement in national average	r			
+145	this backup always has backup, just in case	s	1		
+146	sick chuck pagano, annoyed colts couldn't win second game without him, contemplates sending in playbook written in chicken soup	n		1	0
+147	man not certain what any of his coworkers' hobbies are	n		1	0
+148	new dol ad tells employees to go back to work, but in pajamas	n		1	0
+149	cnn anchor interviews al jazeera anchor about libyan rebels	r			
+150	new study finds best sunscreen is layer of aloe gel that has a magical power to keep you safe from the sun and prevent sunburn.	r			
+151	florida man wonders how he got on hamas e-newsletter distribution list	s	1		
+152	amnesty international 'blasts' conditions of nhl penalty boxes	s	1		
+153	police puzzled by unusual bottle-shaped bag	n		1	0
+154	buffalo bills players celebrate after opening week win	r			
+155	everyone at office planning to quit for the same day	n		1	0
+156	48 syrian civilians named during claire danes' emmy award acceptance speech, likely regretting their association with homeland	n		1	0
+157	americans experiencing slightly different kind of numbness these days	r			
+158	many afghans shrug at 'this event foreigners call 9/11'	s	1		
+159	woman praying for bangladesh unknowingly picturing india	r			
+160	nation to be silent from 1 p.m. to 4 p.m. this friday	n		1	0
+161	confusing roadside memorial features bicycle, rotary telephone, jug of some kind	n		0	0
+162	us official: 1 in custody in houston shootings	n		0	1
+163	busy mel kiper, jr. still finds time to throw around the old spreadsheet with his daughter	n		1	0
+164	community rallies to save the world from a book apocalypse	n		1	0
+165	vin scully: broadcaster, los angeles dodgers decides it's time to retire from life	n		1	0
+166	obama takes surprise caller during weekly interview	r			
+167	standoff in ivory coast threatens to escalate into full-scale conflict	r			
+168	bill belichick builds new defense from many pieces of wood	s	1		
+169	tom brady autobiography highlights the highs and highs of being tom brady	s	2		
+170	humane society volunteer spends whole adoption meeting emphasizing the unique needs of a special cat	s	1		
+171	guy from plane greeted at baggage claim by the entire village	n		1	0
+172	most divorced men think everyone else's relationship is in trouble, but theirs is just fine... seriously, guys	n		1	0
+173	louisville cardinals team plane returns to airport	n		1	0
+174	romney revising tax plan as hopes of finding bigfoot increase	n		1	0
+175	international athletes to watch in 2012	r			
+176	area man pretty sure the mayor's not corrupt	n		1	0
+177	now age doesn't matter, unless you're a cheese	n		1	0
+178	ira glass discusses 'this american life' at high school reunion	r			
+179	delaware park entries, nov. 3	r			
+180	report blames bp, others for poor management, missteps in gulf oil spill	n		0	0
+181	area woman always has backup internet just in case	n		1	0
+182	man plans special weekend to reaffirm commitment to microsoft xbox 360	s	1		
+183	rotation of popular starlets delights u.s. populace	r			
+184	area man hopes to see roommate's girlfriend at a pool party	n		1	0
+185	man gets life in order for 36 minutes	s	0		
+186	a look at iowa, home of first vote of '12 campaign	r			
+187	85 bears visit to white house marred by former players tracking dog shit everywhere	n		1	0
+188	different waitress brings order	n		1	0
+189	obama adviser: u.s. maintains limited role in libyan weapons hunt	r			
+190	mitt romney announces he's running for his life	n		1	0
+191	sony plans special event to reaffirm commitment to xbox 360	n		1	0
+192	cnn anchor interviews al jazeera member who trained libyan rebels	r			
+193	physicist finds error in fermilab calculations	r			
+194	american airlines to modify complimentary cabin pressurization policy	s	1		
+195	scandalous photos reveal grover norquist's secret passionate love affair with the tax code	n		1	0
+196	google looks down on website that would let itself be plastered in donald trump's ads	s	0		
+197	cowboys award 6-year, $108 million extension to quarterback tony romo	r			
+198	sen. dick lugar placed on congressional disabled list with sprained hamstring	r			
+199	michael phelps using rosetta stone to brush up on his german	r			
+200	report: bipartisanship no longer scissors	n		1	0
+201	reporter to elena kagan: 'got milk?'	n		1	0
+202	waiting at citizens bank park	n		1	0
+203	report of popular fish's death starting to get around tank	n		1	0
+204	world bank to acquire global agricultural land	r			
+205	mlb to have one opening day this season	n		1	0
+206	jimmie johnson disqualified after pre-race inspection reveals car to be a transformer in disguise	s	1		
+207	alleged ohio 'pill mill' owner pleads not guilty	r			
+208	colored waitress delivers rainbow-hued order with a side of sass	n		1	0
+209	workday marred by constant interactions with coworkers	s	1		
+210	stunned st. peter's square crowd overhears pope francis getting bitched out by a priest	n		1	0
+211	lone house party arrival desperately wants to get rsvps	n		1	0
+212	filthy mitt romney delivers campaign speech to audience of confused shoppers in ohio safeway	n		1	0
+213	soccer olay it fast	n		0	0
+214	us government offers tax breaks to companies that pretend to help the planet	s	2		
+215	after bush: how to repair us alliances	r			
+216	jury selection proving difficult in trial of the century, because everyone's too fucking lazy to pay attention	s	0		
+217	scientific journal releases list of year's top 100 chemical compounds	r			
+218	license to wed' a weak farce from 'the office' crew	r			
+219	old recruiting violation makes return to michigan more challenging	n		1	0
+220	epa warns that human beings are no longer biodegradable due to environmental pollution	s	1		
+221	indians do not have ace pitcher this year, but they have a great catcher who can also play football.	n		1	0
+222	quarterback playing well enough for commentator to mention his favorite play	n		1	0
+223	evolutionary biologist discovers common human ancestor in africa, it's your neighbor steve	s	0		
+224	redskins acquire replacement for taylor	r			
+225	cash-strapped oklahoma to conduct executions by hiring squirrels	n		1	0
+226	rapping teen lil biz releases "singing this way".	r			
+227	minnesota gophers coach kill has seizure, leaves game	n		1	0
+228	investigation finds appalling conditions in nebraska animal research laboratory where they are forced to use pencils instead of mice as test subjects	n		1	0
+229	nation to be vaccinated from 1 p.m. to 4 p.m. this friday	n		1	0
+230	andy katz: stephen curry, davidson wildcats are now a package deal	r			
+231	high school seniors texting while driving	r			
+232	local farmers learn how to react to boron shortage	n		1	0
+233	obama pledges to give health care law a protein shake and a gym membership if reelected	n		1	0
+234	panama takes in migrants during weekly radio address	n		1	0
+235	small business mistreats workers like large corporations	s	0		
+236	navy marching band to join macy's parade after mistaken for rubber ducky float during audition	n		1	0
+237	total time spent being awake drops to 13 hours per day	r			
+238	india may issue bonds for non-resident indians-source	n		0	0
+239	new mobile-device purchase makes smartphones more likely to take over the world	n		1	0
+240	disturbance of arafat's grave creates unexpected dance party in the middle east	s	0		
+241	report: many iraqis still holding resentment about u.s. invasion	r			
+242	undercover reporter ends up in fucking mass grave	n		1	0
+243	panicked man looking for remote	n		1	0
+244	google responds to privacy concerns with apology for being too specific	n		1	0
+245	sotomayor to add ballistics expertise to supreme court's legal arsenal	s	0		
+246	annan to meet assad, seeking end to syria violence	r			
+247	300 digital art pieces featuring naked women feared lost in computer crash	s	1		
+248	lone house party arrival desperately wants to be noticed by dog	s	0		
+249	cowboys award 6-year, $108 million extension to quarterback tony romo	r			
+250	piece of art for sale on coffeehouse wall has had it up to here with the wiseass remarks	s	0		
+251	report: peanut butter contains extra "crunch" from traces of rat feces	r			
+252	school district fights bus mishap court decision	r			
+253	referee acknowledges two fouls on the play	n		1	0
+254	wnba finals dominated by minnesota lynx's power forward and her army of trained squirrels	n		1	0
+255	gop carefully weighs corporate side of healthcare argument while eating cake	n		1	0
+256	laffy taffy sponsors sticky situation at macy's thanksgiving parade	r			
+257	espn sports segment reveals magic spell behind tony romo's precision pass	n		1	0
+258	rumors circulate about mom's close relationship with one of her college professors	n		1	0
+259	alumni magazine flips to obituaries section for graduation year, overlooked	n		0	0
+260	man, how you trained your pet mouse to jump through your stretched earlobe?	n		0	0
+261	parade of interchangeable celebrities delights us populace	s	1		
+262	white house declares war on illegal provider	n		1	0
+263	understanding and forgiveness of loss now available in new book form	n		0	0
+264	game of thrones' runs out of unkempt leading men to cast	s	0		
+265	iran promises to end nuclear program in exchange for glowing nightlights	n		1	0
+266	international celebrities to watch in 2012	r			
+267	rick santorum relieved no one has asked him about his extensive collection of unicorn figurines yet	n		1	0
+268	prince fielder recovering from food fight in hospital	n		1	0
+269	best falafel in western montana found to be mediocre	n		1	0
+270	greg oden: center, joins portland trail blazers in a desperate attempt to escape the curse	r			
+271	turn into it	n		0	0
+272	new 'reality television delusion' diagnosed	n		1	0
+273	state of minnesota asks for federal funding to help its underfunded public school system that is currently ranked 50th in the nation	r			
+274	tim duncan announces partnership with florsheim for shoe line	r			
+275	area couple has mind-blowing ego validation	n		1	0
+276	michigan is hoping for a time machine to avoid ohio state	n		1	0
+277	petfinder volunteer spends whole adoption day trying to sell family on sicker cat	n		0	0
+278	giant protest puppet kills dozens of peace protesters	n		1	0
+279	office makes touching tribute for bawling carnival worker	n		1	0
+280	new dol ad tells employees to go back to sleep	n		1	0
+281	rathman rejoins 49ers as rbs coach - nfl	n		0	0
+282	area man hopes to see roommate's girlfriend naked	n		1	0
+283	report: many iraqis still holding grudge about invasion	n		1	0
+284	remains of davy crockett handed over to family	r			
+285	beijing's olympic social, cultural calendar	n		0	0
+286	woman praying for bangladesh unknowingly picturing india	r			
+287	cavaliers fall to last in division after team realizes they accidentally signed lebron james' cardboard cutout	s	0		
+288	early playoff exit provides huge relief to grizzlies' injured starters	r			
+289	local resident hoping raccoons hurry up and eat halloween pumpkins in next few days	n		1	0
+290	penn state to also remove statue of columbus	r			
+291	quarterback playing well enough for him to mention his own play	n		1	0
+292	secondhand puns linked to uncontrollable laughter	s	2		
+293	bill simmons is still bitter about the 2005 nba season	r			
+294	new photos reveal stress of obama's first term in office has rapidly aged his wife	r			
+295	lebron james is his own biggest fan, literally, in eerily quiet arena	n		1	0
+296	brendan fraser to star in new pre-movie trivia question	n		1	0
+297	george steinbrenner helps sons to relax	r			
+298	lakers legend karl malone inducted into basketball hall of fame	r			
+299	god cites 'moving in mysterious ways' as motive for killing of 3,000 papua new guineans	s	2		

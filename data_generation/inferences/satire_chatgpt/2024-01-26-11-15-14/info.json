@@ -1,0 +1,25 @@
+{
+    "top_p": 0.85,
+    "max_tokens": 64,
+    "temperature": 1.0,
+    "model": "gpt-3.5-turbo",
+    "seed": 1234,
+    "input_data": [
+        "../classification/data/unfun/unpaired/human_unique_training.tsv"
+    ],
+    "prompt_data": "../classification/data/unfun/paired/train_for_prompting.tsv",
+    "out_folder": "inferences/satire_chatgpt",
+    "number": "all",
+    "start_at": 0,
+    "end_at": null,
+    "context_size": 8,
+    "prompt_path": "prompts/unfun_dataset/few-shot/satire_chat_final.json",
+    "task_type": "make-funny",
+    "ordering": [
+        "serious",
+        "humorous"
+    ],
+    "prompt": {
+        "text": "You are a helpful assistant that edits realistic headlines to make them humorous."
+    }
+}

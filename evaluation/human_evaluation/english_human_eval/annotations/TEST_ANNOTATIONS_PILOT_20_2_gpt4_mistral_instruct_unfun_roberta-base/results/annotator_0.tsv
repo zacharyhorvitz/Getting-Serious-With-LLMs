@@ -1,0 +1,161 @@
+task_type	model_path	id	headline	real/satirical/neither {r/s/n}	funniness {0,1,2}	grammatical {0,1}	coherent {0,1}
+real	sample_200/real_heads.tsv	0	pakistanis trapped in swat face catastrophe: group	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	1	local store might be going out of business soon	r			
+unfun	[GOLD]	2	ceo spends most of factory visit yelling at employees to work harder	s	1		
+real	sample_200/real_heads.tsv	3	myanmar approves suu kyi's party for election	r			
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	4	too much for local leaders	n		1	0
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	5	Republican Presidential Nomination Race Heats Up After Florida Win	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	6	man successfully persuades girlfriend to join his red cross fan club	s	1		
+satire	[GOLD]	7	paula deen releases delicious new butter product made from her breast milk	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	8	whale escapes human-infested beach, returns to sea	s	2		
+real	sample_200/real_heads.tsv	9	decided by a nose? court ponders drug dog's sniff	s	2		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	10	tsb online banking turns into chaotic treasure hunt despite apology	r			
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	11	tsb online banking chaos continues despite apology for not apologizing earlier	s	1		
+satire	[GOLD]	12	ref hopes both teams catch his disappointed tone as he reports there were two fouls on the play	s	1		
+real	sample_200/real_heads.tsv	13	supreme court to decide if maine smokers can sue	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	14	siblings gather around dining table to discuss off-limits topics for thanksgiving	s	1		
+unfun	[GOLD]	15	siblings gather around table to hash out off-limits topics for thanksgiving	s	1		
+unfun	[GOLD]	16	wes welker is not liked by anyone at the hospital	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	17	op-ed: smirking trump believes he's winning a game of monopoly	r			
+satire	[GOLD]	18	area man has far greater knowledge of marvel universe than own family tree	s	2		
+real	sample_200/real_heads.tsv	19	sources: los angeles dodgers look to shop jones again	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	20	even ceo can't figure out how radioshack still has a dial-up connection	s	1		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	21	appetizers for kids	n		1	1
+unfun	[GOLD]	22	commercials used to be better,' reports insightful paper on 21st century advertising	r			
+real	sample_200/real_heads.tsv	23	authorities: peace restored in china	r			
+unfun	[GOLD]	24	tv viewers outraged at racist comments of commercial break	r			
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	25	nation's soccer fans becoming insufferable	r			
+unfun	[GOLD]	26	worried perfectionist reassured by study	s	1		
+unfun	[GOLD]	27	win puts 49ers on pace for 1-15 record	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	28	surgeon general warns teens that cinnamon challenge is not a valid breakfast option	r			
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	29	breaking: young student who just got bicycle dead from accident	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	30	worried perfectionist reassured by relaxed friend	s	1		
+real	sample_200/real_heads.tsv	31	for kentuckian perry, ryder cup will 'define my career'	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	32	breaking: student trades books for motorcycle, only to fall in love with speed bumps	s	0		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	33	even ceo can't figure out how radioshack is still in business.	s	1		
+satire	[GOLD]	34	kids menu just appetizers	s	1		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	35	jews' contract with god is up for renewal	s	1		
+unfun	[GOLD]	36	legendary bear survives another hunting season	s	2		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	37	legendary duck survives another hunting trip	s	2		
+unfun	[GOLD]	38	mitt romney haunted by uninsured sick people	s	2		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	39	why man has far greater knowledge of the universe than his family tree	s	1		
+satire	[GOLD]	40	smirking skip bayless knows full well he's wrong	n		1	1
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	41	area store feels like it's going out of business soon	s	1		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	42	entire planet concerned about privacy issues	s	0		
+unfun	[GOLD]	43	nation's soccer drought becoming insufferable	r			
+satire	[GOLD]	44	entire train ride spent deciding if, when to use bathroom	s	1		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	45	commercials used to be "better", reports wise sage with one eye closed on couch, and the other half open	s	1		
+real	sample_200/real_heads.tsv	46	patrice evra to pursue luis suarez allegations	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	47	study links drinking while pregnant to potential risks	r			
+satire	[GOLD]	48	baseball officials concerned as more and more retired players begin to show jose canseco–like symptoms	r			
+unfun	[GOLD]	49	espn the magazine releases special issue	r			
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	50	study links drinking while pregnant to being at a kid rock concert.	s	1		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	51	romney spends most of factory visit encouraging employees to work harder	s	1		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	52	baseball officials concerned as more and more retired players begin to show 'sense of impending doom' symptoms	s	2		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	53	man convinces girlfriend to join red cross and become an ambulance	s	0		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	54	family of justin shocked body found in woods	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	55	win puts 49ers on track for improved season	r			
+satire	[GOLD]	56	even ceo can't figure out how radioshack still in business	s	2		
+satire	[GOLD]	57	god late for local wedding	s	2		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	58	surgeon general warns that this drug is not for pussies	s	2		
+satire	[GOLD]	59	new vikings stadium to forego retractable roof for individual fan domes	r			
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	60	paula deen releases delicious new margarine product made from fresh milk	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	61	baby food tapas now available on kids menu	s	2		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	62	mayor late for local wedding, can't believe he didn't see the invitations	s	1		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	63	Nice to meet you,' coworkers tell new employee they've researched online for hours	s	1		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	64	mitt romney receives standing ovation at reception event	r			
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	65	tv viewers outraged at timing of break	s	1		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	66	espn the magazine releases special 'investigative journalism' issue	r			
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	67	entire train ride spent deciding if and when to use it	n		1	0
+unfun	[GOLD]	68	police assaulted at kid rock concert	r			
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	69	area man has far greater knowledge of marvel universe, including all its failures	s	0		
+unfun	[GOLD]	70	obama currently frontrunner for republican presidential nomination	s	1		
+real	sample_200/real_heads.tsv	71	letterman: i faced extortion over sexual affairs	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	72	jewish community's contract with rabbi is up for renewal	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	73	Everyone at the hospital already disagrees with Wes Welker	s	0		
+real	sample_200/real_heads.tsv	74	nature's great events: the great salmon run	r			
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	75	dead seamen put to sea	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	76	mitt romney criticized for past efforts to help uninsured sick people	r			
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	77	new espn.com poll asks readers if they prefer traditional sports such as golfing or surfing	r			
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	78	new eikings stadium to forego retractable roof for new fan domes	r			
+real	sample_200/real_heads.tsv	79	biden endorses hillary for vp, kind of	s	1		
+unfun	[GOLD]	80	jew's covenant with god endures.	n		1	1
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	81	australian expo can't figure out how radioshack stays in business	s	1		
+unfun	[GOLD]	82	‘nice to meet you,’ coworkers tell new employee they’ve studied online	s	1		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	83	nice to meet you,' coworkers tell new employee they've studied online for years	s	2		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	84	city councilman from the bronx warns against building 12th avenue brothel	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	85	entire senate week spent deciding if, how to restrict filibuster and debating pizza toppings	s	1		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	86	troy aikman defends disemboweling joe buck, sharing corpse for warmth.	s	0		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	87	paula de leon releases a new butter product made from her breast milk	s	1		
+satire	[GOLD]	88	breaking: friend who just got motorcycle already dead	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	89	romney receives standing ovation at event full of people who actually like him	s	1		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	90	deadbody's body found in woods not just children	s	0		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	91	entire planet feels like it's being spied on	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	92	new espn.com poll asks readers if they even know what e-sports are	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	93	baseball officials concerned as more and more retired players begin to mistake baseballs for ripe avocados	s	1		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	94	new vikings stadium to forego retractable roof and install a permanent roof of aluminum foil	r			
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	95	man convinces girlfriend to join 'trapped half of his' club	s	0		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	96	fda prepares nation for switch to digital food ratings that will be as accurate as a horoscope	s	2		
+unfun	[GOLD]	97	homers accidentally trade for a 4 feet tall statue of tigers	s	0		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	98	mitt romney haunted by past of advocating for universal healthcare	s	1		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	99	man nostalgically claims commercials used to be better while lounging on couch	s	1		
+real	sample_200/real_heads.tsv	100	sub joining hunt for lost hero amundsen's plane	r			
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	101	portuguese explorer discovers new sea route to china	r			
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	102	Everyone at the hospital is already in dislike of wes welker.	s	0		
+satire	[GOLD]	103	tiger woods announces return to sex	s	1		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	104	lakers accidentally trade for 7-foot-tall center dwight howard	r			
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	105	handmade anti-charlie sheen sign currently frontrunner for democratic presidential nomination	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	106	paula deen releases new butter product made from fresh milk, asks for thoughts on renaming it 'moo goo'	s	1		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	107	shirking the shitless knows full well he's wrong	n		1	1
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	108	romney spends most of factory visit yelling at employees to work harder	s	1		
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	109	siblings gather around powerpoint to hash out off-limits topics for holiday dinner	s	1		
+real	sample_200/real_heads.tsv	110	feds 'friending' people on facebook to spy	s	1		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	111	tv viewers upset about timing of commercial break	s	1		
+real	sample_200/real_heads.tsv	112	pennpraxis tells mayor casinos should be relocated	r			
+satire	[GOLD]	113	city councilman from the future warns against building 12th avenue rec center	s	0		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	114	he hopes both teams catch his aggressive play as he reports there were two fouls on the play	n		1	1
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	115	city councilman from the bronx warns against building 12th avenue rec center because he's already in the 13th avenue rec center	s	0		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	116	city councilman from the bronx votes against building 12th avenue rec center	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	117	nation's soccer fan becoming passionate	s	1		
+satire	[GOLD]	118	man convinces girlfriend to join 'trapped half mile underground' club	s	0		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	119	surgeon general warns teens cinnamon is dangerous if used for sexual purposes	r			
+real	sample_200/real_heads.tsv	120	research flips on career light for student	r			
+real	sample_200/real_heads.tsv	121	sr. maria christi nawn | business manager, 84	n		1	1
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	122	tiger woods announces return to tennis	s	0		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	123	lazybonn.com poll asks readers if they agree:	n		1	1
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	124	a menu of appetizers	n		1	1
+satire	[GOLD]	125	surgeon general warns teens cinnamon challenge is not for pussies	s	2		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	126	stranded whale returns to sea to go to a new airport	s	0		
+satire	[GOLD]	127	everybody shocked body found in woods not justin	s	1		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	128	entire senate week spent deciding if, how to restrict filibuster to do something important	s	1		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	129	Lakers reportedly considering trading for new center, Dwight Howard	r			
+satire	[GOLD]	130	fda prepares nation for switch to digital food format	r			
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	131	baseball officials concerned as more and more retired players begin to show lactose canister–like symptoms	r			
+unfun	[GOLD]	132	area store just feels like it can't stop growing	s	0		
+unfun	[GOLD]	133	troy aikman defends disemboweling buck, huddling inside corpse for warmth	s	0		
+unfun	[GOLD]	134	entire planet seems like it's being destroyed	s	0		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	135	espn the magazine releases special 'sports' issue	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	136	new vikings stadium to embrace open-air concept, forego retractable roof and walls	r			
+satire	[GOLD]	137	romney receives 20-minute standing ovation at naawp event	r			
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	138	whitney receives 20-minute standing ovation at wawpaca	r			
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	139	worried perfectionist reassured by organized individual	s	0		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	140	tiger woods announces return to golf	r			
+satire	[GOLD]	141	bin laden returns to sea	s	0		
+real	sample_200/real_heads.tsv	142	huge waves to hit south county hardest	r			
+unfun	inferences_200/unfun_mistral_instruct/2024-01-30-19-07-49/model_outputs.tsv	143	win puts 49ers on pace for 9-7 season	r			
+real	sample_200/real_heads.tsv	144	the life and work of studs terkel	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	145	fda prepares nation for switch to digital food ratings; hopes the world's still spinning by then	s	1		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	146	Legendary duck survives another winter season	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	147	justin's family shocked to find he's gone full bear grylls in the woods	s	0		
+unfun	[GOLD]	148	portuguese retailer discovers new passage to china	s	1		
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	149	area man has far greater knowledge of marvel universe than his own universe	s	2		
+satire	inferences_200/satire_mistral_instruct/2024-01-30-19-28-04/model_outputs.tsv	150	op-ed: smirking trump knows full well he's an idiot	s	2		
+real	sample_200/real_heads.tsv	151	duron carter still not cleared to play for alabama crimson tide	r			
+real	sample_200/real_heads.tsv	152	burn before or after reading?	s	1		
+satire	[GOLD]	153	lazy espn.com poll asks readers if they like sports	s	0		
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	154	police: man who just got motorcycle shot dead	r			
+unfun	inferences_200/unfun_roberta-base/2024-01-30-19-10-33/model_outputs.tsv	155	asda prepares store for switch to fast food format	r			
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	156	troy aikman defends joe buck, discusses strategy for upcoming season	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	157	tiger woods announces return to golf	r			
+satire	inferences_200/satire_gpt4/2024-01-30-19-18-01/model_outputs.tsv	158	mayor gatecrashes local wedding fashionably late	s	1		
+unfun	inferences_200/unfun_gpt4/2024-01-30-19-09-59/model_outputs.tsv	159	Portuguese explorer finds new trading route to China	r			

@@ -1,0 +1,25 @@
+{
+    "top_p": 0.85,
+    "max_tokens": 64,
+    "temperature": 1.0,
+    "model": "mistralai/Mistral-7B-v0.1",
+    "seed": 1234,
+    "input_data": [
+        "../human_eval/sample_200/unpaired/pairs_for_satire_gen.tsv"
+    ],
+    "prompt_data": "../classification/data/unfun/paired/train_for_prompting.tsv",
+    "out_folder": "../human_eval/inferences_200//satire_mistral_completion",
+    "number": "all",
+    "start_at": 0,
+    "end_at": null,
+    "context_size": 8,
+    "prompt_path": "prompts/unfun_dataset/few-shot/satire_completion_final.json",
+    "task_type": "make-funny",
+    "ordering": [
+        "serious",
+        "humorous"
+    ],
+    "prompt": {
+        "text": "The following realistic headlines can be edited to be humorous:"
+    }
+}
